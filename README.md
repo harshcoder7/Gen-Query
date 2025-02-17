@@ -43,7 +43,7 @@ _Overview of the RAG system for enhancing query responses with context._
 ## Demo
 
 You can explore the tool in action by following this demo:  
-**[UI](https://github.com/harshcoder7/Gen-Query/blob/main/UI.png)**  
+![UI Screenshot](https://github.com/harshcoder7/Gen-Query/blob/main/UI.png)
 **[Video Demo](https://github.com/harshcoder7/Gen-Query/blob/main/VIDEO.mp4)**
 
 
