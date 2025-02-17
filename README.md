@@ -44,7 +44,7 @@ _Overview of the RAG system for enhancing query responses with context._
 
 You can explore the tool in action by following this demo:  
 ![UI Screenshot](https://github.com/harshcoder7/Gen-Query/blob/main/UI.png)
-**[Video Demo](https://github.com/harshcoder7/Gen-Query/blob/main/VIDEO.mp4)**
+[![YouTube Video Demo](https://img.youtube.com/vi/WFDV5BgpMso/0.jpg)](https://www.youtube.com/watch?v=WFDV5BgpMso)
 
 
 1. **Input:** Load URLs or text files for processing.
