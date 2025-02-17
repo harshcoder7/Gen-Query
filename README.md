@@ -27,7 +27,7 @@ _Illustration of system architecture: Document retrieval, text segmentation, emb
 
 ### Map-Reduce Chaining
 
-![Map-Reduce Process](https://link_to_your_image.com)  
+![Map-Reduce Process](https://github.com/harshcoder7/Gen-Query/blob/main/map%20reduce)  
 _Illustrates how Map-Reduce Chaining efficiently processes documents._
 
 ### Stuff Method
