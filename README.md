@@ -43,7 +43,9 @@ _Overview of the RAG system for enhancing query responses with context._
 ## Demo
 
 You can explore the tool in action by following this demo:  
-**[Demo Link](https://github.com/harshcoder7/Gen-Query/blob/main/UI)(https://github.com/harshcoder7/Gen-Query/blob/main/VIDEO.mp4)**
+**[UI](https://github.com/harshcoder7/Gen-Query/blob/main/UI)**  
+**[Video Demo](https://github.com/harshcoder7/Gen-Query/blob/main/VIDEO.mp4)**
+
 
 1. **Input:** Load URLs or text files for processing.
 2. **Process:** The tool fetches, segments, and generates embeddings using OpenAI models.
