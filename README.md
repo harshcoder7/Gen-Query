@@ -32,18 +32,18 @@ _Illustrates how Map-Reduce Chaining efficiently processes documents._
 
 ### Stuff Method
 
-![Stuff Method](https://link_to_your_image.com)  
+![Stuff Method](https://github.com/harshcoder7/Gen-Query/blob/main/stuff%20method)  
 _The Stuff Method optimizes API calls by reducing token consumption._
 
 ### RAG Mechanism
 
-![RAG](https://link_to_your_image.com)  
+![RAG](https://github.com/harshcoder7/Gen-Query/blob/main/rag.png)  
 _Overview of the RAG system for enhancing query responses with context._
 
 ## Demo
 
 You can explore the tool in action by following this demo:  
-**[Demo Link](https://link_to_your_demo.com)**
+**[Demo Link](https://github.com/harshcoder7/Gen-Query/blob/main/VIDEO.mp4)**
 
 1. **Input:** Load URLs or text files for processing.
 2. **Process:** The tool fetches, segments, and generates embeddings using OpenAI models.
