@@ -22,7 +22,7 @@ GenQuery is an AI-powered platform designed to streamline academic research by e
 
 ## System Design
 
-![System Architecture](https://link_to_your_image.com)  
+![System Architecture](https://github.com/harshcoder7/Gen-Query/blob/main/system%20design)  
 _Illustration of system architecture: Document retrieval, text segmentation, embedding construction, and FAISS for query handling._
 
 ### Map-Reduce Chaining
